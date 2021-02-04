@@ -1,1 +1,12 @@
 theme: jekyll-theme-midnight
+# Site Settings
+locale                   : "en-US"
+title                    : "Melody Asghari"
+title_separator          : "-"
+name                     : &name "Melody Asghari"
+description              : &description "Computer Engineering Student"
+url                      : https://melasq.github.io
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "melasq/melasq.github.io"
+
+
